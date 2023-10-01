@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ThunderNote</string>
+    <string name="fuente">Fuentes</string>
+    <string name="size">Tamaño</string>
+    <string name="guardar">Guardar</string>
+    <string-array name="fuentes">
+        <item>Arial</item>
+        <item>Calibri</item>
+        <item>Candara</item>
+        <item>Century Gothic</item>
+        <item>Consolas</item>
+        <item>Dejavu Sans</item>
+        <item>Franklin Gothic</item>
+        <item>Gill Sans</item>
+        <item>Helvetica</item>
+        <item>Lucida Sans</item>
+        <item>MS Sans Serif</item>
+        <item>Neue Helvetica</item>
+        <item>Optima</item>
+        <item>Segoe UI</item>
+        <item>Tahoma</item>
+        <item>Trebuchet MS</item>
+        <item>Verdana</item>
+    </string-array>
+    <string-array name="tamanios">
+        <item>14</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+        <item>34</item>
+        <item>48</item>
+        <item>60</item>
+        <item>96</item>
+    </string-array>
+</resources>
