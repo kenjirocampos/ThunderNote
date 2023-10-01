@@ -6,17 +6,21 @@
     android:layout_height="match_parent"
     tools:context=".AgregarNotaActivity"
     android:layout_margin="10dp"
+    android:background="@drawable/fondo2"
     android:orientation="vertical">
 
-    <TextView
+    <EditText
         android:id="@+id/txtTitulo"
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="Receta Pie de Limon"
+        android:hint="Nueva nota"
+        android:background="@drawable/borde_fondo"
         android:textSize="20sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:ems="10"
+        android:inputType="text"/>
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
