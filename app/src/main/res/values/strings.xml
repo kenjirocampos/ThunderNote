@@ -3,6 +3,7 @@
     <string name="fuente">Fuentes</string>
     <string name="size">Tamaño</string>
     <string name="guardar">Guardar</string>
+    <string name="todo">TODO</string>
     <string-array name="fuentes">
         <item>Arial</item>
         <item>Calibri</item>

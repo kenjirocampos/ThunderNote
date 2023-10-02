@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -41,7 +42,7 @@ public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.ItemViewHolder
     }
     class ItemViewHolder extends RecyclerView.ViewHolder{
 
-        ImageButton imgNote;
+        ImageView imgNote;
         TextView txtTituloNota;
 
         public ItemViewHolder(@NonNull View itemView) {
